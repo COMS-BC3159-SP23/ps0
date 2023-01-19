@@ -1,6 +1,6 @@
 # Problem Sets
 
-This is your perosnal repository for Problem Sets!
+This is your personal repository for Problem Sets!
 
 If you are reading this, the name of the repository should be ps0-YourGithubID. If that's what you see, you should already be logged into your Github account and have your own private repository (this one) for your homeworks. You're good to read on!
 
